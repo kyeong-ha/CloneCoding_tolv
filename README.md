@@ -4,4 +4,4 @@
 #### https://tolv.dk/
 
 ### 클론코딩한 사이트
-#### https://kyeong-ha.github.io/clonecoding_tolv/
+#### https://kyeong-ha.github.io/CloneCoding_tolv/
